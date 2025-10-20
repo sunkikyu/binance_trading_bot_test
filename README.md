@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binance Testnet Trading Bot
 
 ## 프로젝트 소개
@@ -65,3 +66,6 @@ MIT 라이선스 참조
 풀 리퀘스트는 언제나 환영입니다!
 
 
+=======
+# binance_trading_bot_test
+>>>>>>> 458fb4eef5488877a8f0af4dafb67689515f042b
