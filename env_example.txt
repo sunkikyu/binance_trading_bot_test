@@ -1,0 +1,11 @@
+# 바이낸스 테스트넷 API 키 설정
+# https://testnet.binance.vision/ 에서 발급받으세요
+
+BINANCE_TESTNET_API_KEY=your_testnet_api_key_here
+BINANCE_TESTNET_SECRET_KEY=your_testnet_secret_key_here
+
+# 실제 거래용 API 키 (주의: 실제 자금 사용)
+BINANCE_API_KEY=your_api_key_here
+BINANCE_SECRET_KEY=your_secret_key_here
+
+
